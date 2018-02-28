@@ -1,10 +1,10 @@
 Package: WatsonNLU
 Type: Package
-Title: What the package does (short line)
+Title: A Wrapper for IBM Watson NLU API
 Version: 1.0
 Date: 2018-02-22
-Author: Who wrote it
-Maintainer: Who to complain to <yourfault@somewhere.net>
-Description: More about what it does (maybe more than one line)
-License: What license is it under?
+Author: Nicholas Howe
+Maintainer: Nicholas Howe <wenann.howe@gmail.com>
+Description: A simple wrapper function for calling IBM Watson's Natural Language Understanding (NLU) API. This function behaves in a similar way to the Python wrapper which can be found under the NLU API Reference.
+License: MIT + file LICENSE
 Imports: httr (>= 1.3.1)

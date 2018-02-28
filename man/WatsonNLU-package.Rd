@@ -9,12 +9,6 @@
 \packageDescription{WatsonNLU}
 }
 \details{
-
-The DESCRIPTION file:
-\packageDESCRIPTION{WatsonNLU}
-\packageIndices{WatsonNLU}
-~~ An overview of how to use the package, including the most important ~~
-~~ functions ~~
 }
 \author{
 \packageAuthor{WatsonNLU}
@@ -22,15 +16,11 @@ The DESCRIPTION file:
 Maintainer: \packageMaintainer{WatsonNLU}
 }
 \references{
-~~ Literature or other references for background information ~~
+https://www.ibm.com/watson/developercloud/natural-language-understanding/api/v1/
 }
-~~ Optionally other standard keywords, one per line, from file KEYWORDS in the ~~
-~~ R documentation directory ~~
 \keyword{ package }
 \seealso{
-~~ Optional links to other man pages, e.g. ~~
-~~ \code{\link[<pkg>:<pkg>-package]{<pkg>}} ~~
+\link[WatsonNLU]{Watson_NLU}
 }
 \examples{
-~~ simple examples of the most important functions ~~
 }
